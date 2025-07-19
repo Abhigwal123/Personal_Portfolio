@@ -24,7 +24,7 @@ const Header = () => {
                         className="flex items-center"
                     >
                         <span className="text-xl font-bold bg-gradient-to-r from-gray-300 to-gray-100 bg-clip-text text-transparent">
-                            Abhishek Yadav
+                            Abhigwal Yadav
                         </span>
                     </motion.div>
 
